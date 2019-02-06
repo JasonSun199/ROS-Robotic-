@@ -1,0 +1,8 @@
+prefix=/home/jasonsun/ros_ws/devel
+
+Name: simple_baxter_arm_controller
+Description: Description of simple_baxter_arm_controller
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jasonsun/ros_ws/devel/lib 
+Requires: roscpp std_msgs baxter_core_msgs

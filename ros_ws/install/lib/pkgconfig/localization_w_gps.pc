@@ -1,0 +1,8 @@
+prefix=/home/jasonsun/ros_ws/install
+
+Name: localization_w_gps
+Description: Description of localization_w_gps
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jasonsun/ros_ws/install/lib 
+Requires: roscpp std_msgs nav_msgs geometry_msgs xform_utils sensor_msgs

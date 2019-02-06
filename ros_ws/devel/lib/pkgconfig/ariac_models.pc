@@ -1,0 +1,8 @@
+prefix=/home/jasonsun/ros_ws/devel
+
+Name: ariac_models
+Description: Description of ariac_models
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jasonsun/ros_ws/devel/lib 
+Requires: 

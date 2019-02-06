@@ -1,0 +1,8 @@
+prefix=/home/jasonsun/ros_ws/install
+
+Name: pcl_utils
+Description: Description of pcl_utils
+Version: 0.0.0
+Cflags: -I/home/jasonsun/ros_ws/install/include
+Libs: -L/home/jasonsun/ros_ws/install/lib -lpcl_utils
+Requires: roscpp pcl_ros pcl_conversions pcl_msgs sensor_msgs std_msgs tf xform_utils

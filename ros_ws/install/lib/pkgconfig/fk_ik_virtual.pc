@@ -1,0 +1,8 @@
+prefix=/home/jasonsun/ros_ws/install
+
+Name: fk_ik_virtual
+Description: Description of fk_ik_virtual
+Version: 0.0.0
+Cflags: -I/home/jasonsun/ros_ws/install/include
+Libs: -L/home/jasonsun/ros_ws/install/lib -lfk_ik_virtual
+Requires: roscpp std_msgs

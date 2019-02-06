@@ -1,0 +1,8 @@
+prefix=/home/jasonsun/ros_ws/install
+
+Name: mobot_drifty_odom
+Description: Description of mobot_drifty_odom
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jasonsun/ros_ws/install/lib 
+Requires: roscpp nav_msgs geometry_msgs sensor_msgs tf

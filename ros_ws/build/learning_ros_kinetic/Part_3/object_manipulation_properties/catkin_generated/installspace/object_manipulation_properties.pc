@@ -1,0 +1,8 @@
+prefix=/home/jasonsun/ros_ws/install
+
+Name: object_manipulation_properties
+Description: Description of object_manipulation_properties
+Version: 0.0.0
+Cflags: -I/home/jasonsun/ros_ws/install/include
+Libs: -L/home/jasonsun/ros_ws/install/lib 
+Requires: message_runtime roscpp std_msgs geometry_msgs xform_utils

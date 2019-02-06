@@ -1,0 +1,2 @@
+set(object_manipulation_properties_MESSAGE_FILES "")
+set(object_manipulation_properties_SERVICE_FILES "/home/jasonsun/ros_ws/src/learning_ros_kinetic/Part_3/object_manipulation_properties/srv/objectManipulationQuery.srv")

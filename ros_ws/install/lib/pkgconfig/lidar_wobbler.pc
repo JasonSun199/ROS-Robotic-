@@ -1,0 +1,8 @@
+prefix=/home/jasonsun/ros_ws/install
+
+Name: lidar_wobbler
+Description: Description of lidar_wobbler
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jasonsun/ros_ws/install/lib 
+Requires: roscpp geometry_msgs tf sensor_msgs laser_geometry xform_utils

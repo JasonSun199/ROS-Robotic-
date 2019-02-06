@@ -1,0 +1,8 @@
+prefix=/home/jasonsun/ros_ws/devel
+
+Name: xform_utils
+Description: Description of xform_utils
+Version: 0.0.0
+Cflags: -I/home/jasonsun/ros_ws/src/learning_ros_kinetic/Part_2/xform_utils/include
+Libs: -L/home/jasonsun/ros_ws/devel/lib -lxform_utils
+Requires: roscpp std_msgs tf geometry_msgs

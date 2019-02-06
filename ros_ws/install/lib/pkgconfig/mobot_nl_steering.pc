@@ -1,0 +1,8 @@
+prefix=/home/jasonsun/ros_ws/install
+
+Name: mobot_nl_steering
+Description: Description of mobot_nl_steering
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jasonsun/ros_ws/install/lib 
+Requires: roscpp geometry_msgs nav_msgs

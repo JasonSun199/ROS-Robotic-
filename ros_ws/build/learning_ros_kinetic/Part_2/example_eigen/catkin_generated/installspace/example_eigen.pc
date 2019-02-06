@@ -1,0 +1,8 @@
+prefix=/home/jasonsun/ros_ws/install
+
+Name: example_eigen
+Description: Description of example_eigen
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jasonsun/ros_ws/install/lib 
+Requires: roscpp tf geometry_msgs

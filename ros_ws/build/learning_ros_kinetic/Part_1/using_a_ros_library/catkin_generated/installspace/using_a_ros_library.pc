@@ -1,0 +1,8 @@
+prefix=/home/jasonsun/ros_ws/install
+
+Name: using_a_ros_library
+Description: Description of using_a_ros_library
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jasonsun/ros_ws/install/lib 
+Requires: roscpp std_msgs std_srvs creating_a_ros_library

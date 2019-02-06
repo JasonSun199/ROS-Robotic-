@@ -1,0 +1,8 @@
+prefix=/home/jasonsun/ros_ws/devel
+
+Name: mobot_gazebo_state
+Description: Description of mobot_gazebo_state
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jasonsun/ros_ws/devel/lib 
+Requires: roscpp std_msgs

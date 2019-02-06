@@ -1,0 +1,8 @@
+prefix=/home/jasonsun/ros_ws/devel
+
+Name: cwru_ariac_launch
+Description: Description of cwru_ariac_launch
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jasonsun/ros_ws/devel/lib 
+Requires: 

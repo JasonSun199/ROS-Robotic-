@@ -1,0 +1,2 @@
+set(magic_object_finder_MESSAGE_FILES "msg/magicObjectFinderAction.msg;msg/magicObjectFinderActionGoal.msg;msg/magicObjectFinderActionResult.msg;msg/magicObjectFinderActionFeedback.msg;msg/magicObjectFinderGoal.msg;msg/magicObjectFinderResult.msg;msg/magicObjectFinderFeedback.msg")
+set(magic_object_finder_SERVICE_FILES "")
