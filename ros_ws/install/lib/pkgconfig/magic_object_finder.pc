@@ -1,8 +1,0 @@
-prefix=/home/jasonsun/ros_ws/install
-
-Name: magic_object_finder
-Description: Description of magic_object_finder
-Version: 0.0.0
-Cflags: -I/home/jasonsun/ros_ws/install/include
-Libs: -L/home/jasonsun/ros_ws/install/lib 
-Requires: message_runtime roscpp std_msgs geometry_msgs gazebo_msgs xform_utils actionlib

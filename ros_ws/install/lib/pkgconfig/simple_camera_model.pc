@@ -1,8 +1,0 @@
-prefix=/home/jasonsun/ros_ws/install
-
-Name: simple_camera_model
-Description: Description of simple_camera_model
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/jasonsun/ros_ws/install/lib 
-Requires: 

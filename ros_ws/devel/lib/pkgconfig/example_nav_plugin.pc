@@ -1,8 +1,0 @@
-prefix=/home/jasonsun/ros_ws/devel
-
-Name: example_nav_plugin
-Description: Description of example_nav_plugin
-Version: 0.0.0
-Cflags: -I/home/jasonsun/ros_ws/src/learning_ros_kinetic/Part_4/example_nav_plugin/include
-Libs: -L/home/jasonsun/ros_ws/devel/lib 
-Requires: roscpp nav_core

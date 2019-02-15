@@ -1,8 +1,0 @@
-prefix=/home/jasonsun/ros_ws/install
-
-Name: arm7dof_fk_ik
-Description: Description of arm7dof_fk_ik
-Version: 0.0.0
-Cflags: -I/home/jasonsun/ros_ws/install/include
-Libs: -L/home/jasonsun/ros_ws/install/lib -larm7dof_fk_ik
-Requires: roscpp sensor_msgs

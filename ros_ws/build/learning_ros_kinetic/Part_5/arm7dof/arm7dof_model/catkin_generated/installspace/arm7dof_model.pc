@@ -1,8 +1,0 @@
-prefix=/home/jasonsun/ros_ws/install
-
-Name: arm7dof_model
-Description: Description of arm7dof_model
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/jasonsun/ros_ws/install/lib 
-Requires: 

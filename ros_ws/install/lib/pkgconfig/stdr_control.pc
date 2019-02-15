@@ -1,8 +1,0 @@
-prefix=/home/jasonsun/ros_ws/install
-
-Name: stdr_control
-Description: Description of stdr_control
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/jasonsun/ros_ws/install/lib 
-Requires: roscpp geometry_msgs std_msgs

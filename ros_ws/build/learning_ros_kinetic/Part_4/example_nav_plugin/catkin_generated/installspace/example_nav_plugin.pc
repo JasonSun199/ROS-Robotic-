@@ -1,8 +1,0 @@
-prefix=/home/jasonsun/ros_ws/install
-
-Name: example_nav_plugin
-Description: Description of example_nav_plugin
-Version: 0.0.0
-Cflags: -I/home/jasonsun/ros_ws/install/include
-Libs: -L/home/jasonsun/ros_ws/install/lib 
-Requires: roscpp nav_core

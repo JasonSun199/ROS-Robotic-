@@ -1,8 +1,0 @@
-prefix=/home/jasonsun/ros_ws/install
-
-Name: mobot_pub_des_state
-Description: Description of mobot_pub_des_state
-Version: 0.0.0
-Cflags: -I/home/jasonsun/ros_ws/install/include
-Libs: -L/home/jasonsun/ros_ws/install/lib 
-Requires: roscpp std_msgs geometry_msgs nav_msgs traj_builder message_runtime

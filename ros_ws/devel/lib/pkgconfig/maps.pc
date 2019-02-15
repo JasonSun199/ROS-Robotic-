@@ -1,8 +1,0 @@
-prefix=/home/jasonsun/ros_ws/devel
-
-Name: maps
-Description: Description of maps
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/jasonsun/ros_ws/devel/lib 
-Requires: 

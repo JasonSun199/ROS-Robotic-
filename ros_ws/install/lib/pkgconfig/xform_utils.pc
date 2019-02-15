@@ -1,8 +1,0 @@
-prefix=/home/jasonsun/ros_ws/install
-
-Name: xform_utils
-Description: Description of xform_utils
-Version: 0.0.0
-Cflags: -I/home/jasonsun/ros_ws/install/include
-Libs: -L/home/jasonsun/ros_ws/install/lib -lxform_utils
-Requires: roscpp std_msgs tf geometry_msgs

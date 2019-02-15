@@ -1,8 +1,0 @@
-prefix=/home/jasonsun/ros_ws/install
-
-Name: navigator
-Description: Description of navigator
-Version: 0.0.0
-Cflags: -I/home/jasonsun/ros_ws/install/include
-Libs: -L/home/jasonsun/ros_ws/install/lib 
-Requires: message_runtime roscpp std_msgs geometry_msgs nav_msgs traj_builder actionlib move_base_msgs xform_utils

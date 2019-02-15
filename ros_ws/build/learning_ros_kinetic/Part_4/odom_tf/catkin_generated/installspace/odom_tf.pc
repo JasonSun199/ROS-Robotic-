@@ -1,8 +1,0 @@
-prefix=/home/jasonsun/ros_ws/install
-
-Name: odom_tf
-Description: Description of odom_tf
-Version: 0.0.0
-Cflags: -I/home/jasonsun/ros_ws/install/include
-Libs: -L/home/jasonsun/ros_ws/install/lib -lodom_tf
-Requires: roscpp tf nav_msgs geometry_msgs xform_utils

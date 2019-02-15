@@ -1,8 +1,0 @@
-prefix=/home/jasonsun/ros_ws/devel
-
-Name: example_opencv
-Description: Description of example_opencv
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/jasonsun/ros_ws/devel/lib 
-Requires: roscpp image_transport cv_bridge sensor_msgs

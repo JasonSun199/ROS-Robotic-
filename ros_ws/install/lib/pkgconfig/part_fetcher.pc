@@ -1,8 +1,0 @@
-prefix=/home/jasonsun/ros_ws/install
-
-Name: part_fetcher
-Description: Description of part_fetcher
-Version: 0.0.0
-Cflags: -I/home/jasonsun/ros_ws/install/include
-Libs: -L/home/jasonsun/ros_ws/install/lib 
-Requires: message_runtime roscpp geometry_msgs cartesian_planner actionlib tf xform_utils object_manipulation_properties generic_gripper_services object_grabber

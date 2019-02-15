@@ -1,8 +1,0 @@
-prefix=/home/jasonsun/ros_ws/devel
-
-Name: publish_selected_patch
-Description: Description of publish_selected_patch
-Version: 1.0.0
-Cflags: 
-Libs: -L/home/jasonsun/ros_ws/devel/lib 
-Requires: 

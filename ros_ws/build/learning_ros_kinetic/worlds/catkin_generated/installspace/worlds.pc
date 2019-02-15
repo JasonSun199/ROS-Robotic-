@@ -1,8 +1,0 @@
-prefix=/home/jasonsun/ros_ws/install
-
-Name: worlds
-Description: Description of worlds
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/jasonsun/ros_ws/install/lib 
-Requires: 

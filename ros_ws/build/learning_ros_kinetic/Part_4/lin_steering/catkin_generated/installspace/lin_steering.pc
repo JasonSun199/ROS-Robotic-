@@ -1,8 +1,0 @@
-prefix=/home/jasonsun/ros_ws/install
-
-Name: lin_steering
-Description: Description of lin_steering
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/jasonsun/ros_ws/install/lib 
-Requires: roscpp nav_msgs geometry_msgs xform_utils odom_tf

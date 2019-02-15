@@ -1,8 +1,0 @@
-prefix=/home/jasonsun/ros_ws/install
-
-Name: minimal_joint_controller
-Description: Description of minimal_joint_controller
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/jasonsun/ros_ws/install/lib 
-Requires: catkin_simple gazebo_msgs sensor_msgs roscpp std_msgs

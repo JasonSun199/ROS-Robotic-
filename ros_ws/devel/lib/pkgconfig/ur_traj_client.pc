@@ -1,8 +1,0 @@
-prefix=/home/jasonsun/ros_ws/devel
-
-Name: ur_traj_client
-Description: Description of ur_traj_client
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/jasonsun/ros_ws/devel/lib 
-Requires: roscpp actionlib trajectory_msgs control_msgs

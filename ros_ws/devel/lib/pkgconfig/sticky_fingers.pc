@@ -1,8 +1,0 @@
-prefix=/home/jasonsun/ros_ws/devel
-
-Name: sticky_fingers
-Description: Description of sticky_fingers
-Version: 1.0.0
-Cflags: 
-Libs: -L/home/jasonsun/ros_ws/devel/lib -lsticky_fingers
-Requires: roscpp gazebo_ros roscpp gazebo_ros

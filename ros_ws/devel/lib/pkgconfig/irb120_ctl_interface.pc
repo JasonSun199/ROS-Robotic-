@@ -1,8 +1,0 @@
-prefix=/home/jasonsun/ros_ws/devel
-
-Name: irb120_ctl_interface
-Description: Description of irb120_ctl_interface
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/jasonsun/ros_ws/devel/lib 
-Requires: roscpp std_msgs sensor_msgs trajectory_msgs
